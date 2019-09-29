@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="stylesheet.css">
+    <meta charset="utf-8">
+    <title>東京ベアーズHP</title>
+  </head>
+  <body>
+      <header>
+       <h1 class="header-h1">東京ベアーズ</h1>
+      <ul class="header-ul">
+          <li><a href="https://bigjapanese.github.io/biguma/">ホーム</a></li>
+          <li><a href="pe-ziC.html">チームメンバー</a></li>
+          <li><a href="pe-ziD.html">試合結果</a></li>
+          <li><a href="pe-ziB.html">お問い合わせ</a></li>
+          <li><a href="pe-ziA.html">入団案内</a></li>
+      </ul>
+      </header>
+      <div class="top B-top">
+          <h4>＜よくある質問＞</h4>
+          <ul>
+              <li>Q : 活動頻度はどのくらいですか</li>
+              <li>A : １ヶ月に３回ほど</li><br>
+              <li>Q : 所属している方々の年齢と経験レベルを教えて下さい</li>
+              <li>A : 年齢は１５歳から３０歳ほどですが学生中心です。経験レベルは未経験者から。。。</li><br>
+              <li>Q : </li>
+              <li>A</li><br>
+              <li>Q</li>
+              <li>A</li><br>
+              <li>Q</li>
+              <li>A</li>
+          </ul>
+          <h4>＜質問はこちらまで＞</h4>
+          <p>nkoneko@gmail.com</p>
+      </div>
+  </body>
+</html>
